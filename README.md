@@ -1,6 +1,6 @@
 # RAC Portal Backend
 PhD Scholar Academic Monitoring & RAC Management System. Designed by Hashim Veeran A.
-Node 18+, Express, SQLite. One server, one database file, uploads on disk.
+Node 20+, Express, SQLite. One server, one database file, uploads on disk.
 
 ## Run
 ```
