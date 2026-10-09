@@ -1,0 +1,5 @@
+# The Express/SQLite API in server.js is meant for a long-running server (see README).
+# On Netlify only the self-contained demo page (index.html, localStorage-backed) is published.
+[build]
+  command = "mkdir -p dist && cp index.html dist/"
+  publish = "dist"
